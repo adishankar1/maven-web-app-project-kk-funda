@@ -146,7 +146,7 @@
 					<wtpContextName>maven-web-application</wtpContextName>
 				</configuration>
 			</plugin>
-		<build>
+		
     <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
@@ -154,7 +154,7 @@
             <version>3.3.2</version> <!-- Use a more recent version -->
         </plugin>
     </plugins>
-</build>
+
 	
 </plugins>
 	</build>
